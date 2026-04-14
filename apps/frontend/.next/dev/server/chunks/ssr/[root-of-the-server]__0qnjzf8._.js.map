@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///F:/MY%20FILES/Projects/ecommerce-marketplace/apps/frontend/pages/index.js"],"sourcesContent":["import Head from 'next/head';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div>\r\n      <Head>\r\n        <title>E-commerce Marketplace</title>\r\n      </Head>\r\n      <main>\r\n        <h1>Welcome to the E-commerce Marketplace</h1>\r\n        {/* Search bar and mega menu will be added here */}\r\n      </main>\r\n    </div>\r\n  );\r\n}\r\n"],"names":["Home"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC;;0BACC,qKAAC,gIAAI;0BACH,cAAA,qKAAC;8BAAM;;;;;;;;;;;0BAET,qKAAC;0BACC,cAAA,qKAAC;8BAAG;;;;;;;;;;;;;;;;;AAKZ"}}]
+}

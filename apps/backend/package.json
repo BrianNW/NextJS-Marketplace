@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "bcrypt": "latest",
+    "jsonwebtoken": "latest",
+    "pg": "latest",
+    "mongoose": "latest",
+    "stripe": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}

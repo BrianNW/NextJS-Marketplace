@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce-marketplace",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
