@@ -1,7 +1,0 @@
-// This file marks the root of the monorepo for tooling.
-{
-  "packages": [
-    "apps/*",
-    "packages/*"
-  ]
-}

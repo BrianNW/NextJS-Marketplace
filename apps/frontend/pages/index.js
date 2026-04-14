@@ -8,7 +8,7 @@ export default function Home() {
       </Head>
       <main>
         <h1>Welcome to the E-commerce Marketplace</h1>
-        {/* Search bar and mega menu will be added here */}
+        {/* Add your homepage content here */}
       </main>
     </div>
   );
