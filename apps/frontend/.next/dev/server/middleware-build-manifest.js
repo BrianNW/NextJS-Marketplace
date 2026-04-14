@@ -13,29 +13,43 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/turbopack-apps_frontend_pages_index_0tb8k0q._.js"
     ],
     "/_app": [
-      "static/chunks/0gmf_next_dist_compiled_044apmx._.js",
+      "static/chunks/0gmf_next_dist_compiled_03may~8._.js",
+      "static/chunks/0gmf_next_dist_shared_lib_0jbq4g4._.js",
+      "static/chunks/0gmf_next_dist_client_0s15vp8._.js",
+      "static/chunks/0gmf_next_dist_02ga4ku._.js",
+      "static/chunks/0gmf_next_link_0pc-z_n.js",
+      "static/chunks/0gmf_react-dom_07yrxfw._.js",
+      "static/chunks/0gmf_axios_lib_0qczrr5._.js",
+      "static/chunks/0gmf_0271~n9._.js",
+      "static/chunks/[root-of-the-server]__0x87da.._.js",
+      "static/chunks/apps_frontend_styles_Home_module_0.jemw3.css",
+      "static/chunks/apps_frontend_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-apps_frontend_pages__app_0xi9wrb._.js"
+    ],
+    "/dashboard/superadmin": [
+      "static/chunks/0gmf_next_dist_compiled_03may~8._.js",
       "static/chunks/0gmf_next_dist_shared_lib_0.lmrqq._.js",
       "static/chunks/0gmf_next_dist_client_0er~tca._.js",
-      "static/chunks/0gmf_next_dist_0ck1mx_._.js",
-      "static/chunks/0gmf_next_app_02wj64y.js",
-      "static/chunks/[next]_entry_page-loader_ts_0t4i~c4._.js",
+      "static/chunks/0gmf_next_dist_02ga4ku._.js",
       "static/chunks/0gmf_react-dom_07yrxfw._.js",
-      "static/chunks/0gmf_0fmq78m._.js",
-      "static/chunks/[root-of-the-server]__0qt6.yp._.js",
-      "static/chunks/apps_frontend_pages__app_07xvfw~._.js",
-      "static/chunks/turbopack-apps_frontend_pages__app_0pabwfu._.js"
+      "static/chunks/0gmf_axios_lib_0qczrr5._.js",
+      "static/chunks/0gmf_0271~n9._.js",
+      "static/chunks/[root-of-the-server]__01cf8.8._.js",
+      "static/chunks/apps_frontend_pages_dashboard_superadmin_07xvfw~.js",
+      "static/chunks/turbopack-apps_frontend_pages_dashboard_superadmin_0lzii_f.js"
     ],
-    "/_error": [
-      "static/chunks/0gmf_next_dist_compiled_044apmx._.js",
-      "static/chunks/0gmf_next_dist_shared_lib_0ekz~02._.js",
+    "/login": [
+      "static/chunks/0gmf_next_dist_compiled_03may~8._.js",
+      "static/chunks/0gmf_next_dist_shared_lib_0.lmrqq._.js",
       "static/chunks/0gmf_next_dist_client_0er~tca._.js",
-      "static/chunks/0gmf_next_dist_0nk~u2r._.js",
-      "static/chunks/[next]_entry_page-loader_ts_0ez91k_._.js",
+      "static/chunks/0gmf_next_dist_02ga4ku._.js",
+      "static/chunks/0gmf_next_router_0rr7ghs.js",
       "static/chunks/0gmf_react-dom_07yrxfw._.js",
-      "static/chunks/0gmf_0fmq78m._.js",
-      "static/chunks/[root-of-the-server]__00wg3_3._.js",
-      "static/chunks/apps_frontend_pages__error_07xvfw~._.js",
-      "static/chunks/turbopack-apps_frontend_pages__error_0y0-59p._.js"
+      "static/chunks/0gmf_axios_lib_0qczrr5._.js",
+      "static/chunks/0gmf_0271~n9._.js",
+      "static/chunks/[root-of-the-server]__11lv4yt._.js",
+      "static/chunks/apps_frontend_pages_login_07xvfw~._.js",
+      "static/chunks/turbopack-apps_frontend_pages_login_13rxy58._.js"
     ]
   },
   "devFiles": [],
